@@ -1,5 +1,5 @@
 ## Welcome to GitHub Games - Omar Vásquez
-# Cambio por: hlbarragan; - segundo cambio adicional, tercer ajuste
+Cambio por: hlbarragan; - segundo cambio adicional, tercer ajuste, último ajuste **(creo)**
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
