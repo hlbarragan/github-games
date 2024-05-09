@@ -6,5 +6,5 @@ services:
       - "$PWD:/srv/jekyll"
     ports:
       - '4000:4001'
-    command: jekyll  serve  --incremental
+    command: jekyll serve --incremental
     tty: true
